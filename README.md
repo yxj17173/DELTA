@@ -37,7 +37,7 @@ There are two ways to use this program.
 
   ### Parameters description:
 
-  #### required options:
+  #### required parameters:
 
   -treeS: TreeS file path
 
@@ -45,7 +45,7 @@ There are two ways to use this program.
 
   -cost: Cost file path. the cost file contains the score for different types of leaves
 
-  #### optional parameters:
+  #### optional :
 
   -method: l or g. g for global alignment; l for local alignment. default: g.
 
