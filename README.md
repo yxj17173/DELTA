@@ -34,10 +34,9 @@ HSA [-treeS <TreeS file path>][-treeT ] [-cost <Cost file path>][-method ] [-max
 ```
 ### required options: -treeS, -treeT, -cost, -method
 
+### description:
 
-## description
-
-### required options:
+#### required options:
 
 -treeS: TreeS file path
 
@@ -45,7 +44,7 @@ HSA [-treeS <TreeS file path>][-treeT ] [-cost <Cost file path>][-method ] [-max
 
 -cost: Cost file path. the cost file contains the score for different types of leaves
 
-### optional parameters:
+#### optional parameters:
 
 -method: l or g. g for global alignment; l for local alignment. default: g.
 
