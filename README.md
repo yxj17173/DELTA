@@ -4,7 +4,7 @@ A novel computational framework for comparative analysis of developmental lineag
 There are two ways to use this program.
 
 ## Method 1: the simple syntax
-One of the following scripts.
+One of the following scripts:
 ```
 HSA <TreeS file path> <TreeT file path> <Cost file path> <g>
 HSA <TreeS file path> <TreeT file path> <Cost file path> <l> <n>
@@ -35,7 +35,7 @@ HSA [-treeS <TreeS file path>][-treeT ] [-cost <Cost file path>][-method ] [-max
 ### required options: -treeS, -treeT, -cost, -method
 
 
-## description:
+## description
 
 ### required options:
 
