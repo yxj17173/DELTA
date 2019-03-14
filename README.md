@@ -34,9 +34,8 @@ There are two ways to use this program.
       [-method ] [-max_target <target num for l>]
       [-test testNum] [-outfile <output file path>][-all ] [-prune pruneScore]
   ```
-  ### required options: -treeS, -treeT, -cost
 
-  ### description:
+  ### Parameters description:
 
   #### required options:
 
