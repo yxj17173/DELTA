@@ -3,7 +3,8 @@ A novel computational framework for comparative analysis of developmental lineag
 
 There are two ways to use this program.
 
-Method 1: the simple syntax. One of the following scripts.
+#Method 1: the simple syntax. One of the following scripts.
+
   HSA <TreeS file path> <TreeT file path> <Cost file path> <g>
   HSA <TreeS file path> <TreeT file path> <Cost file path> <l> <n>
   HSA <TreeS file path> <TreeT file path> <Cost file path> <g> <testNum>
@@ -13,7 +14,7 @@ Method 1: the simple syntax. One of the following scripts.
   n: number of local alignments to output
   testNum: number of test for calculate p-value (default:100, max:10000,min:2)
 
-Method 2: the verbose way.
+#Method 2: the verbose way.
   HSA [-h] [--help]
   -h: print short help and description
   --help: print detailed help and description
