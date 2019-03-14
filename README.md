@@ -40,22 +40,22 @@ There are two ways to use this program.
 
   #### required options:
 
-    -treeS: TreeS file path
+  -treeS: TreeS file path
 
-    -treeT: TreeT file path
+  -treeT: TreeT file path
 
-    -cost: Cost file path. the cost file contains the score for different types of leaves
+  -cost: Cost file path. the cost file contains the score for different types of leaves
 
   #### optional parameters:
 
-    -method: l or g. g for global alignment; l for local alignment. default: g.
+  -method: l or g. g for global alignment; l for local alignment. default: g.
 
-    -max_target: target num for l, local alignment. default: 1
+  -max_target: target num for l, local alignment. default: 1
 
-    -test: testNum to calculate p-value. If testNum <=2, do not output p-value. default 0
+  -test: testNum to calculate p-value. If testNum <=2, do not output p-value. default 0
 
-    -outfile: output file path. default: TreeS file path + l or g, based on -method
+  -outfile: output file path. default: TreeS file path + l or g, based on -method
 
-    -all: T or F. output as much information as possible. default F;
+  -all: T or F. output as much information as possible. default F;
 
-    -prune: pruneScore is the punish for pruning one leaf. default 1
+  -prune: pruneScore is the punish for pruning one leaf. default 1
