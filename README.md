@@ -45,7 +45,7 @@ There are two ways to use this program.
 
   -cost: Cost file path. the cost file contains the score for different types of leaves
 
-  #### optional :
+  #### optional parameters:
 
   -method: l or g. g for global alignment; l for local alignment. default: g.
 
