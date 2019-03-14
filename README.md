@@ -28,15 +28,16 @@ HSA [-h][--help]
 
 --help: print detailed help and description
 
-Usage:
+### Usage:
 ```
-  HSA [-treeS <TreeS file path>][-treeT ] [-cost <Cost file path>][-method ] [-max_target <target num for l>][-test testNum] [-outfile <output file path>][-all ] [-prune pruneScore]
+HSA [-treeS <TreeS file path>][-treeT ] [-cost <Cost file path>][-method ] [-max_target <target num for l>][-test testNum] [-outfile <output file path>][-all ] [-prune pruneScore]
 ```
-required options: -treeS, -treeT, -cost, -method
+### required options: -treeS, -treeT, -cost, -method
 
-description:
 
-required options:
+## description:
+
+### required options:
 
 ​    -treeS: TreeS file path
 
@@ -44,7 +45,7 @@ required options:
 
 ​    -cost: Cost file path. the cost file contains the score for different types of leaves
 
-optional parameters:
+### optional parameters:
 
 ​    -method: l or g. g for global alignment; l for local alignment. default: g.
 
