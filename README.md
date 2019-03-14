@@ -1,6 +1,8 @@
 # DELTA (Developmental Cell Lineage Tree Alignment)
 A novel computational framework for comparative analysis of developmental lineage trees reveals developmental motifs and their genetic basis
+
 There are two ways to use this program.
+
 Method 1: the simple syntax. One of the following scripts.
   HSA <TreeS file path> <TreeT file path> <Cost file path> <g>
   HSA <TreeS file path> <TreeT file path> <Cost file path> <l> <n>
