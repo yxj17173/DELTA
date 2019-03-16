@@ -1,6 +1,8 @@
 # DELTA (Developmental Cell Lineage Tree Alignment)
 A novel computational framework for comparative analysis of developmental lineage trees reveals developmental motifs and their genetic basis
 
+![%E7%94%BB%E6%9D%BF%201](/Users/ada/Documents/GitHub/DELTA/%E7%94%BB%E6%9D%BF%201.png)
+
 There are two ways to use this program.
 
 ## Method 1: the simple syntax
