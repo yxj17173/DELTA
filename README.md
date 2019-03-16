@@ -1,5 +1,5 @@
 # DELTA (Developmental Cell Lineage Tree Alignment)
-A novel computational framework for comparative analysis of developmental lineage trees reveals developmental motifs and their genetic basis
+[A novel computational framework for comparative analysis of developmental lineage trees reveals developmental motifs and their genetic basis](https://www.biorxiv.org/content/10.1101/577809v1)
 
 ![](https://github.com/yxj17173/DELTA/blob/master/figs/overview.png)
 
