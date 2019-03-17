@@ -1,9 +1,8 @@
 # DELTA (Developmental Cell Lineage Tree Alignment)
 
 
-[![DOI](https://zenodo.org/badge/111455172.svg)](https://zenodo.org/badge/latestdoi/111455172)
 
-`DELTA` is an novel computational framework for comparative analysis of developmental lineage trees reveals developmental motifs and their genetic basis, [Computational comparison of developmental cell lineage trees by alignments](https://www.biorxiv.org/content/10.1101/577809v1).
+[DELTA is an novel computational framework for comparative analysis of developmental lineage trees reveals developmental motifs and their genetic basis](https://www.biorxiv.org/content/10.1101/577809v1).
 
 ![](https://github.com/yxj17173/DELTA/blob/master/figs/overview.png)
 
