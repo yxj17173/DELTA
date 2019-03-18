@@ -4,9 +4,15 @@
 
 [DELTA is an novel computational framework for comparative analysis of developmental lineage trees reveals developmental motifs and their genetic basis](https://www.biorxiv.org/content/10.1101/577809v1).
 
-![](https://github.com/yxj17173/DELTA/blob/master/figs/overview.png)
+![](https://github.com/yxj17173/DELTA/data/overview.png)
 
-There are two ways to use this program.
+# Installation
+
+Executable program is in the 'app' directory, a linux version and a macOS version, which you could directly download to use.
+
+And source code is in the 'src' directory, which you could complie by yourself. Open the terminal, go to the './src' directory, run `make`, the output executable program is in the 'bin' directory.
+
+There are **two** ways to use this program.
 
 ## Method 1: the simple syntax
   One of the following scripts:
@@ -42,7 +48,7 @@ There are two ways to use this program.
 
   ### Parameters description:
 
-  #### required parameters:
+  #### Required parameters:
 
   -treeS: TreeS file path
 
@@ -50,7 +56,7 @@ There are two ways to use this program.
 
   -cost: Cost file path. the cost file contains the score for different types of leaves
 
-  #### optional parameters:
+  #### Optional parameters:
 
   -method: l or g. g for global alignment; l for local alignment. default: g.
 
@@ -63,3 +69,7 @@ There are two ways to use this program.
   -all: T or F. output as much information as possible. default F;
 
   -prune: pruneScore is the punish for pruning one leaf. default 1
+
+#### Example
+
+`./DELTA -treeS ./data/fun.alm -treeT ./data/fun.alm -cost ./data/cost.tsv -method l -test 100 -outfile DELTA_result -max target 10`
