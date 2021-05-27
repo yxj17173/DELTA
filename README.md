@@ -2,7 +2,7 @@
 
 
 
-[DELTA is an novel computational framework for comparative analysis of developmental lineage trees reveals developmental motifs and their genetic basis](Alignment of Cell Lineage Trees Elucidates Genetic Programs for the Development and Evolution of Cell Types).
+[DELTA is an novel computational framework for comparative analysis of developmental lineage trees reveals developmental motifs and their genetic basis](https://www.sciencedirect.com/science/article/pii/S2589004220304594?via%3Dihub).
 
 ![](https://github.com/yxj17173/DELTA/blob/master/data/overview.png)
 
